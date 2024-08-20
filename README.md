@@ -1,12 +1,24 @@
-# AWS LAMBA EXERCISES
+# AWS LAMBDA EXERCISES
 This repository contains exercises written in javascript or python to document the 
 learning process of using AWS Lambdas
 
 ## Technical Details
-- To Do
+- Lambdas: written in JavaScript and Python
 
-## Proof of Concepts
-- Video Walkthrough of the setup of SSH+PR
-- Video walthrough of set up of a Github Actions
 
- 
+## Stages
+### Stage 1:
+- Setting up of the environment:
+   * Cloning the repository
+   * Adding a branch
+   * Creating a commit
+   * Setting up an authentication based keys for SSH
+   * Pushing to Github using SSH
+   * Creating a Pull Request
+   * Approving a PR and adding extra security measures
+   * Setting up a Github Action
+- Proof of Concept:
+   * ![PoC video](https://youtu.be/oPYoEWebhnc)
+- Walkthrough:
+   * [Youtube list of the entire proces](https://www.youtube.com/playlist?list=PLsQR_Tmsj29mZfRpPBm7FAoj9rQBUwv2A)
+
