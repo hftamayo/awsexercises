@@ -17,7 +17,7 @@ learning process of using AWS Lambdas
    * Creating a Pull Request
    * Approving a PR and adding extra security measures
    * Setting up a Github Action
-- Proof of Concept:
+- Proof of Concept Video:
    * [![Proof of Concept](https://img.youtube.com/vi/oPYoEWebhnc/maxresdefault.jpg)](https://youtu.be/oPYoEWebhnc)
 - Walkthrough:
    * [Youtube list of the entire proces](https://www.youtube.com/playlist?list=PLsQR_Tmsj29mZfRpPBm7FAoj9rQBUwv2A)
