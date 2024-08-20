@@ -18,7 +18,8 @@ learning process of using AWS Lambdas
    * Approving a PR and adding extra security measures
    * Setting up a Github Action
 - Proof of Concept:
-   * ![PoC video](https://youtu.be/oPYoEWebhnc)
+Proof of Concept:
+   * <iframe width="560" height="315" src="https://www.youtube.com/embed/oPYoEWebhnc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - Walkthrough:
    * [Youtube list of the entire proces](https://www.youtube.com/playlist?list=PLsQR_Tmsj29mZfRpPBm7FAoj9rQBUwv2A)
 
