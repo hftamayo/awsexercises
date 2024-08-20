@@ -15,7 +15,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Print environment variable
-        run: echo "Project Summary: $REPO_DESCRIPT"
+        run: |
+          echo "Project Summary: $REPO_DESCRIPT"
 
       - name: Print environment secret
-        run: echo "AWS Secret Key: ${{ secrets.TOP_SECRET }}"
+        run: |
+          echo "AWS Secret Key: ${{ secrets.TOP_SECRET }}"
+
