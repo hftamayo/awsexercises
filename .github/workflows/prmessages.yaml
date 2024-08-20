@@ -1,0 +1,21 @@
+name: Print Messages on PR to Main Branch
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  print-messages:
+    runs-on: ubuntu-latest
+    env:
+      REPO_DESCRIPT: "AWS Lambdas Exercises: Python and JS"
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Print environment variable
+        run: echo "Project Summary: $REPO_DESCRIPT"
+
+      - name: Print environment secret
+        run: echo "AWS Secret Key: ${{ secrets.TOP_SECRET }}"
